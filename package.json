@@ -1,0 +1,21 @@
+{
+  "name": "gulp-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch",
+    "build": "gulp build"
+  },
+  "author": "Aman Kharbanda <amankharbanda34@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp-clean": "^0.4.0",
+    "handlebars": "^4.7.7"
+  }
+}
