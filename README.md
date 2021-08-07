@@ -29,7 +29,7 @@ The gulp file can be modified/updated as per your project needs.
 
 ## Getting Started
 
-Starting Dev Server
+Starting dev Server with browsersync.
 
 ```
 npm run start
@@ -77,4 +77,5 @@ Build is the output directory where the processed files are kept, you can simply
 1. [Gulp](https://gulpjs.com/)
 2. [Handlerbars](https://handlebarsjs.com/)
 3. [Bootstrap](https://getbootstrap.com/)
+4. [Browsersync](https://browsersync.io/)
 
